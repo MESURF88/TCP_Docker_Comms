@@ -1,6 +1,7 @@
 # Intro
-## Testing isolated build environments that communicate between each other
-## over TCP
+## NOTE: tested on Windows with Docker Desktop (Docker Engine v20+ and docker-compose v1.29.2, build 5becea4c)
+## NOTE: add the mounted paths server_container/work and client_container/work to Docker Compose Resources
+## Testing isolated build environments that communicate between each other over TCP
 ## automated with docker-compose
 ## built with cmake, linux g++ compiler
 ## cross-platform c++ api using Qt
