@@ -1,0 +1,6 @@
+.git
+server_container/work/build
+server_container/work/target/bin
+server_container/work/log/*.txt
+client_container/work/build
+client_container/work/target/bin
